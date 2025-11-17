@@ -60,6 +60,9 @@
 
 ## Output:
 
+<img width="1909" height="863" alt="image" src="https://github.com/user-attachments/assets/023ef127-0064-46bc-9e86-e06c19d4479f" />
+
+
 ### Name: 
 ### Register Number:
 
